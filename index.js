@@ -1,4 +1,4 @@
-var level = require('level');
+var level = require('levelup');
 var multilevel = require('multilevel');
 var levelProxy = require('level-proxy');
 var net = require('net');

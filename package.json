@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "has": "~0.0.1",
-    "level": "~0.18.0",
+    "leveldown": "^1.0.0",
+    "levelup": "^0.19.0",
     "level-proxy": "^1.1.1",
     "level-manifest": "^1.2.0",
     "multilevel": "^6.0.1"
